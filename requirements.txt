@@ -1,0 +1,5 @@
+gym
+numpy
+pandas
+torch
+plotly
