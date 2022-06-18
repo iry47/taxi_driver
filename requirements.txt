@@ -3,3 +3,5 @@ numpy
 pandas
 torch
 plotly
+pygame
+matplotlib
